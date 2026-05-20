@@ -57,5 +57,6 @@ Insert into quotes (book_id, quote) values
 -- The Jewel of Seven Stars (1 quote)
 (10, 'The jewel of seven stars is the key to the tomb of Queen Tera.'),
 
--- The Lady of the Shroud (1 quote)
-(11, 'She was a lady of the shroud, and the shroud was her tomb.');
+-- The Lady of the Shroud (2 quotes)
+(11, 'She was a lady of the shroud, and the shroud was her tomb.'),
+(11, 'The night has a thousand eyes.');
