@@ -5,13 +5,13 @@ Here, I've created a small SQL database of gothic and horror fiction from throug
 
 ## About The Files
 
-**schema.sql**
+**schema.sql**:
 Defines the database structure and creates three tables: Authors, Books, and Quotes, with foreign key relationships between them.
 
-**seed.sql**
+**seed.sql**:
 Populates the database with sample data: 5 authors, 11 books, and 20 quotes from classic horror and gothic literature.
 
-**queries.sql**
+**queries.sql**:
 Contains four select queries:
 - Lists all books and the number of quotes for each
 - Lists all authors and the number of quotes for each
